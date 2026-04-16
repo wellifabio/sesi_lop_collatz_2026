@@ -1,4 +1,4 @@
-# \# Collatz
+# Collatz
 
 
 
@@ -6,17 +6,20 @@ Recebeu este nome em referência ao matemático alemão Lothar Collatz. A Conjec
 
 
 
-* Apesar de testada até números altíssimos, nunca foi provada.
+- Apesar de testada até números altíssimos, nunca foi provada.
 
 
 
-\## Tecnologias
+## Tecnologias
 
-* Linguagem C
-* DevC++
-* Fluxograma
+- Linguagem C
+- DevC++
+- Fluxograma
 
 
+## Como testar
 
-\## Como testar
+- Clone o repositorio
+- Abra o arquivo .c com DevC++
+- Pressione F11 para compilar e executar
 
