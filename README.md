@@ -14,3 +14,5 @@ Recebeu este nome em referência ao matemático alemão Lothar Collatz. A Conjec
 - Abra o arquivo .c com DevC++
 - Pressione F11 para compilar e executar
 
+## Fluxograma
+![Fluxograma](./fluxograma.png)
